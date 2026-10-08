@@ -1,0 +1,101 @@
+JavaScript
+→ Javascript is scripting language as well as programming language
+→ JS is dynamically typed language
+→ JS having single call stack(Only one processor/thread)
+Uses:
+→Using JS we can build Dynamic Web Applications
+→Using JS we can add functionalities to web pages
+→here we can achieve DOM functionalities using which we can manipulate HTML and CSS
+→we can fetch data from server(APIs) and also send data to server(APIs)
+
+1991
+Mocha → 1995 → net scope(browser company)
+    |
+Live script
+    |
+JavaScript
+    |
+ECMA → added new feature → release 1st version → ES1(ECMA Script version 1)
+Stable version → ES6
+Present version → ES16
+
+Implements:
+Inline JS
+Internal JS
+External JS
+Tokens:
+	Tokens are the smallest units in JS code
+Types:
+Identifiers
+→ Identifiers are the names given to the code
+→In the place Identifiers we cant use keywords
+→Ex: variable name, class names, function name(method names)
+Keywords
+→Keywords are the predefined words which have its own meaning
+→In JS total 66 keywords
+Literals
+Operators
+→Arithmetic,Logical,Bitwise,Unary,Tertiary etc
+Separators
+→. , “ ‘ ` ; : { } [ ] ( ) < >
+Comments
+→ Single line comments //
+→ Multi line comments /*  */
+Datatypes:
+Represents the type of data present inside the variable
+Primitive Datatypes
+number
+string
+boolean
+null (But console.log(typeof null) → object ⇒ Bug in JS)
+undefine
+symbol
+bigint
+Non-Primitive Datatypes
+Arrays
+→ Arrays are the linear data structures used to store collection of homogenous or heterogenous data
+→ In JS Arrays Declaration:
+Literal way
+Using new keyword (object)
+		→ Loops:
+for loop
+while loop
+do while loop
+for of loop (arrays/strings) → only values
+for in loop (arrays/strings) → only indexes
+for each loop
+		Some other ⇒ map(), filter(), reduce()
+Objects
+→ Objects are the real-time entities used to store data in the form of key and value pair
+→ In JS Objects Declaration:
+Literal way
+Syntax:
+	variableType variableName = {
+			key1:value1,
+			key2:value2
+	}
+Using new keyword:
+Syntax:
+	variableType variableName = new Object({
+			key1:value1,
+			key2:value2
+	})
+Functions
+→ Functions are the block of statements which will get executed whenever it is called
+Note:
+	→ Using functions we can perform Code Reusability
+→ And also increase Code Readability
+Types:
+User Defined Functions
+Pre-Defined Functions
+		→ In JS we can declare functions in many ways(Classifications)
+Anonymous Function
+Normal/Named Function
+Functional Expression
+First Class Function
+Immediate Invoking Function(IIF) / Self Calling Function
+Arrow Function(ES6)
+Nested Function
+Higher Order Function
+Callback Function
+Generator Function

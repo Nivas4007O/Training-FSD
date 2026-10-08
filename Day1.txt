@@ -1,0 +1,36 @@
+Web Applications: 
+    → Any applications that run on the browser.
+
+Types of web applications:
+    1. Static web applications: 
+        → Applications that do not have any functionalities.
+        → To build static web applications we use html and css.
+    2. Dynamic web applications:
+        → Any applications having functionalities.
+        → To build dynamic web applications html, css, and js are required.
+
+What is a web page?
+        → Web pages are the html doc files that run on the web.
+
+What is HTML?
+    -> HTML is used to define the structure of a webpage.
+
+HTML Boilerplate:
+    Shortcuts to create HTML Boilerplate:
+        → !
+        → html : 5
+        → doc
+
+    <!DOCTYPE html> : Tells about the version of the html.
+    <html></html> : The root tag where everything is stored.
+    <head></head> : Contains meta information(stylings, file type etc) or browser information.
+    using a <link> tag in the title makes you change the browser icon in the title bar.
+    
+    Tags:
+        → tags are the predefined words which are enclosed with both opening and closing angular brackets(<>).
+
+    Types:
+        → Paired Tags:
+        → Any tags having both opening and closing tags.
+            Eg: All heading tags, Formatting tags, Other tags.
+
